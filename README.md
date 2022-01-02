@@ -15,6 +15,9 @@ https://twitter.com/TLAlexander/status/1476853052640411650
 Some detail photos are here:
 https://twitter.com/TLAlexander/status/1475784906672263171
 
+Oh! And the laser cutter fits under the rug since few people have room for a machine large enough to cut fabric.
+https://twitter.com/TLAlexander/status/1475370330772619270
+
 This design is 100% open source. I do not need anything in return for this work. Please take it and use it in whatever way benefits you. You are invited to fork the design and make it your own, sell kits if you want, anything. The work is licensed CC0 - public domain. If all engineers do this with their work, we can change the world.
 
 Stepper motors used: SL Motor PN: CF3925-100-SL
